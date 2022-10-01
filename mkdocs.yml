@@ -1,0 +1,55 @@
+site_name: PCT Documentation
+site_url: https://wiki.rssw.eu/pct/
+repo_url: https://github.com/Riverside-Software/pct/
+repo_name: PCT
+copyright: © Riverside Software
+nav:
+ - Home: Home.md
+ - QuickStart: QuickStart.md
+ - Changelog: Changelog.md
+ - InstallDocumentation: InstallDocumentation.md
+ - FAQ: FAQ.md
+ - Tasks:
+   - PCT: PCT.md
+   - DlcHome: DlcHome.md
+   - PCTRun: PCTRun.md
+   - PCTDynRun: PCTDynRun.md
+   - PCTCompile: PCTCompile.md
+   - PCTWSComp: PCTWSComp.md
+   - PCTCreateDatabase: PCTCreateDatabase.md
+   - Sports2000: Sports2000.md
+   - PCTDumpSchema: PCTDumpSchema.md
+   - PCTDumpSequences: PCTDumpSequences.md
+   - PCTLoadSchema: PCTLoadSchema.md
+   - PCTIncrementalDump: PCTIncrementalDump.md
+   - PCTBinaryDump: PCTBinaryDump.md
+   - PCTBinaryLoad: PCTBinaryLoad.md
+   - PCTDumpData: PCTDumpData.md
+   - PCTLoadData: PCTLoadData.md
+   - PCTSchemaDoc: PCTSchemaDoc.md
+   - PCTLibrary: PCTLibrary.md
+   - PCTProxygen: PCTProxygen.md
+   - PCTXCode: PCTXCode.md
+   - ProgressVersion: ProgressVersion.md
+   - PCTVersion: PCTVersion.md
+   - ClassDocumentation: ClassDocumentation.md
+   - HtmlDocumentation: HtmlDocumentation.md
+   - XmlDocumentation: XmlDocumentation.md
+   - JsonDocumentation: JsonDocumentation.md
+   - ABLDuck: ABLDuck.md
+   - OEUnit: OEUnit.md
+   - ABLUnit: ABLUnit.md
+   - RestGen: RestGen.md
+   - AssemblyCatalog: AssemblyCatalog.md
+ - Types:
+   - PCTConnection: PCTConnection.md
+   - DBConnectionSet: DBConnectionSet.md
+   - PCTAlias: PCTAlias.md
+   - RCodeSelector: RCodeSelector.md
+   - Option: Option.md
+   - Parameter: Parameter.md
+   - OutputParameter: OutputParameter.md
+   - Holder: Holder.md
+   - PLFileSet: PLFileSet.md
+   - Profiler: Profiler.md
+theme: material
